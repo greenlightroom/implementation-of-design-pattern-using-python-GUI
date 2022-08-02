@@ -1,4 +1,4 @@
-# implementation-of-design-pattern-using-python
+# implementation-of-design-pattern-using-python-GUI
 Implementation of design pattern in creating a file converter application using python
 
 In this app, factory method and singleton method of patterns are implemented. More explanation will be found in the comment section of the code.
